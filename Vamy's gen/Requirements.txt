@@ -1,0 +1,10 @@
+pip install (to install pip)
+
+Then write the commands as the following-
+
+pip install discord
+pip install time
+pip install threading
+pip install random
+pip install jttpx
+pip install tkinter (if that doesnt work try pip install tkinter as tk
